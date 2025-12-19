@@ -34,7 +34,7 @@
                         <input id="email" type="email" name="userEmail" required>
                         <br>
                         <label for="phoneNumber">Telefone</label>
-                        <input id="phoneNumber" type="tel" name="userPhoneNumber" pattern="[0-9] {11}" placeholder="(21)123456789">
+                        <input id="phoneNumber" type="tel" name="userPhoneNumber" pattern="[0-9]{11}" placeholder="(21)123456789">
                         <br>
                         <label for="image">Upload de foto</label>
                         <input id="image" type="file" accept="image/*" name="userImage">
@@ -153,7 +153,7 @@
                         <legend>Confirmações</legend>
                         
                         <input type="checkbox" name="userLgpd" id="userLgpdTerm" value="accepted" required>
-                        <label for="userLgpdTerm">Eu aceito participar da pesquisa</label>
+                        <label for="userLgpdTerm">Eu aceito participar da pesquisa</label><br>
 
                         <input type="checkbox" name="userGetResult" id="getResult" value="accepted">
                         <label for="getResult">Desejo receber os resultados da pesquisa por e-mail</label>
