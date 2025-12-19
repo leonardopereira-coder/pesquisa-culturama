@@ -2,6 +2,8 @@
 
 Formulário de pesquisa online.
 
+<img width="1920" height="2090" alt="screencapture-leonardopereira-coder-github-io-pesquisa-culturama-2025-12-18-22_10_57" src="https://github.com/user-attachments/assets/e28d6e81-3baf-4fa3-9ad6-3be69396aafe" />
+
 ## ✨ Sobre o projeto
 
 Culturama é um simples formulário de pesquisa online criado usando HTML e CSS — disponibilizado neste repositório como um exemplo funcional de formulário + interface web.
